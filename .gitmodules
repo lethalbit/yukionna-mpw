@@ -1,0 +1,3 @@
+[submodule "yukionna-design"]
+	path = yukionna-design
+	url = https://github.com/lethalbit/yukionna.git
